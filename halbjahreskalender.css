@@ -1,0 +1,97 @@
+body,td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: 9px;
+	font-weight: normal;
+	text-decoration: none;
+	}
+.wt {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	line-height: 0.45cm;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #000000;
+}
+.kw {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	line-height: 0.45cm;
+	color: #666666;
+}
+.ft {
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	background-color: #FFFF99;
+	line-height: 0.45cm;
+	color: #990000;
+}
+.ftfront {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	background-color: #E4E4E4;
+	line-height: 0.45cm;
+	color: #990000;
+}
+.ftklein {
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	background-color: #FFFF99;
+	vertical-align: text-bottom;
+	line-height: 0.45cm;
+	font-size: 8px;
+}
+.head {
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	background-color: #E4E4E4;
+	line-height: 0.45cm;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+}
+.kwft {
+	color: #666666;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	line-height: 0.45cm;
+	background-color: #FFFF99;
+}
+.wtfront {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	line-height: 0.45cm;
+}
+.front {
+
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	line-height: 0.45cm;
+}
+.copy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}

@@ -1,0 +1,10 @@
+1&&11&&Allerheiligen&&
+24&&12&&Heiliger Abend&&
+31&&12&&Silvester&&
+1&&1&&Neujahr&&
+6&&1&&3 Koenige&&
+3&&10&&Deutsche Einheit&&
+25&&12&&Weihnachten&&
+26&&12&&Weihnachten&&
+01&&05&&Tag der Arbeit&&
+

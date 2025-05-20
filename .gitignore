@@ -1,0 +1,20 @@
+# PHP-spezifische Dateien
+*.log
+*.cache
+*.swp
+*.swo
+
+# IDE und Editor Dateien
+.idea/
+.vscode/
+*.sublime-*
+*.sublime-project
+*.sublime-workspace
+
+# Betriebssystem Dateien
+.DS_Store
+Thumbs.db
+
+# Temporäre Dateien
+*.tmp
+*.temp 
