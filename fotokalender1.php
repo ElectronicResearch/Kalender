@@ -178,7 +178,7 @@ unset($ft);
 echo "</table>";
 ?>
       <br>
-</span><span class="copy">&copy; electronic-research.de</span></td>
+</span><span class="copy">&copy; M. Koznjak</span></td>
   </tr>
 </table>
 </body>

@@ -2,8 +2,8 @@
 /**
  * Kalender zum Ausdrucken
  * 
- * @author M. Koznjak - electronic-research.de
- * @copyright 2024 M. Koznjak - electronic-research.de
+ * @author M. Koznjak
+ * @copyright 2024 M. Koznjak
  */
 ?>
 <!DOCTYPE html>

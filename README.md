@@ -27,8 +27,8 @@ Die Kalenderansicht kann über URL-Parameter gesteuert werden:
 
 ## Autor
 
-M. Koznjak - electronic-research.de
+M. Koznjak
 
 ## Lizenz
 
-Alle Rechte vorbehalten © M. Koznjak - electronic-research.de 
+Alle Rechte vorbehalten © M. Koznjak 

@@ -434,7 +434,7 @@ $monat_tage = [0, 31, ($schaltjahr ? 29 : 28), 31, 30, 31, 30, 31, 31, 30, 31, 3
                 }
                 echo "</table>";
                 ?>
-            </span><span class="front"><span class="copy">&copy; electronic-research.de</span></span></td>
+            </span><span class="front"><span class="copy">&copy; M. Koznjak</span></span></td>
         <td width="4%" valign="top" class="rhkw">&nbsp;</td>
     </tr>
 </table>
